@@ -1,0 +1,34 @@
+INFO	2016-06-01T22:23:27,116	488	main.jp.simplestock.ApplicationLauncher	[main]	Dividend obtained for Stock TEA Price: 12.0 is 0.0
+INFO	2016-06-01T22:23:27,117	489	main.jp.simplestock.ApplicationLauncher	[main]	P/E Ratio obtained for Stock TEA Price: 9.0 is 0.0
+INFO	2016-06-01T22:23:27,120	492	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:23:27 BST 2016 Quantity - 13.001391760202873 Price - 24.002783520405746 Indicator - BUY
+INFO	2016-06-01T22:23:28,121	1493	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:23:28 BST 2016 Quantity - 26.19413860012476 Price - 50.38827720024952 Indicator - SELL
+INFO	2016-06-01T22:23:29,126	2498	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:23:29 BST 2016 Quantity - 24.5313173186826 Price - 47.0626346373652 Indicator - BUY
+INFO	2016-06-01T22:23:30,131	3503	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:23:30 BST 2016 Quantity - 20.86913511349451 Price - 39.73827022698902 Indicator - SELL
+DEBUG	2016-06-01T22:23:31,137	4509	main.jp.simplestock.Stock	[main]	Calculating Volume Weight Stock Price for trades between : Wed Jun 01 22:18:31 BST 2016 to now.
+INFO	2016-06-01T22:23:31,137	4509	main.jp.simplestock.ApplicationLauncher	[main]	Volume Weighted Stock Price for Stock Symbol TEA 42.74149603821797
+INFO	2016-06-01T22:23:31,137	4509	main.jp.simplestock.ApplicationLauncher	[main]	All share index is: 42.74149603821796
+INFO	2016-06-01T22:23:31,138	4510	main.jp.simplestock.ApplicationLauncher	[main]	Dividend obtained for Stock JOE Price: 12.0 is 1.0833333333333333
+INFO	2016-06-01T22:23:31,138	4510	main.jp.simplestock.ApplicationLauncher	[main]	P/E Ratio obtained for Stock JOE Price: 9.0 is 6.230769230769231
+INFO	2016-06-01T22:23:31,138	4510	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:23:31 BST 2016 Quantity - 2.7469507622332094 Price - 3.493901524466419 Indicator - SELL
+INFO	2016-06-01T22:23:32,143	5515	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:23:32 BST 2016 Quantity - 13.0608935469068 Price - 24.1217870938136 Indicator - BUY
+INFO	2016-06-01T22:23:33,148	6520	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:23:33 BST 2016 Quantity - 3.8087108811771397 Price - 5.6174217623542795 Indicator - SELL
+INFO	2016-06-01T22:23:34,150	7522	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:23:34 BST 2016 Quantity - 20.118931485290943 Price - 38.23786297058189 Indicator - BUY
+DEBUG	2016-06-01T22:23:35,155	8527	main.jp.simplestock.Stock	[main]	Calculating Volume Weight Stock Price for trades between : Wed Jun 01 22:18:35 BST 2016 to now.
+INFO	2016-06-01T22:23:35,155	8527	main.jp.simplestock.ApplicationLauncher	[main]	Volume Weighted Stock Price for Stock Symbol JOE 28.06936174191711
+INFO	2016-06-01T22:23:35,155	8527	main.jp.simplestock.ApplicationLauncher	[main]	All share index is: 34.637068491537455
+INFO	2016-06-01T22:23:35,155	8527	main.jp.simplestock.ApplicationLauncher	[main]	Dividend obtained for Stock GIN Price: 12.0 is 0.16666666666666666
+INFO	2016-06-01T22:23:35,156	8528	main.jp.simplestock.ApplicationLauncher	[main]	P/E Ratio obtained for Stock GIN Price: 9.0 is 40.5
+INFO	2016-06-01T22:23:35,156	8528	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:23:35 BST 2016 Quantity - 2.0860286609682577 Price - 2.172057321936515 Indicator - BUY
+INFO	2016-06-01T22:25:48,132	489	main.jp.simplestock.ApplicationLauncher	[main]	Dividend obtained for Stock TEA Price: 12.0 is 0.0
+INFO	2016-06-01T22:25:48,133	490	main.jp.simplestock.ApplicationLauncher	[main]	P/E Ratio obtained for Stock TEA Price: 9.0 is 0.0
+INFO	2016-06-01T22:25:48,138	495	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:25:48 BST 2016 Quantity - 2.431543404155233 Price - 2.8630868083104657 Indicator - BUY
+INFO	2016-06-01T22:25:49,140	1497	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:25:49 BST 2016 Quantity - 24.236319208037393 Price - 46.47263841607479 Indicator - SELL
+INFO	2016-06-01T22:25:50,145	2502	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:25:50 BST 2016 Quantity - 25.718664565365273 Price - 49.43732913073055 Indicator - SELL
+INFO	2016-06-01T22:25:51,146	3503	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:25:51 BST 2016 Quantity - 18.696538794754133 Price - 35.393077589508266 Indicator - SELL
+DEBUG	2016-06-01T22:25:52,150	4507	main.jp.simplestock.Stock	[main]	Calculating Volume Weight Stock Price for trades between: Wed Jun 01 22:10:52 BST 2016 to now.
+INFO	2016-06-01T22:25:52,150	4507	main.jp.simplestock.ApplicationLauncher	[main]	Volume Weighted Stock Price for Stock Symbol TEA 43.13935408004498
+INFO	2016-06-01T22:25:52,150	4507	main.jp.simplestock.ApplicationLauncher	[main]	All share index is: 43.139354080044974
+INFO	2016-06-01T22:25:52,150	4507	main.jp.simplestock.ApplicationLauncher	[main]	Dividend obtained for Stock JOE Price: 12.0 is 1.0833333333333333
+INFO	2016-06-01T22:25:52,151	4508	main.jp.simplestock.ApplicationLauncher	[main]	P/E Ratio obtained for Stock JOE Price: 9.0 is 6.230769230769231
+INFO	2016-06-01T22:25:52,151	4508	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:25:52 BST 2016 Quantity - 18.723427513875226 Price - 35.44685502775045 Indicator - BUY
+INFO	2016-06-01T22:25:53,154	5511	main.jp.simplestock.ApplicationLauncher	[main]	Trade details :  Date - Wed Jun 01 22:25:53 BST 2016 Quantity - 7.173630721717224 Price - 12.347261443434448 Indicator - BUY
